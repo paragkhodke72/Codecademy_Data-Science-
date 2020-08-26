@@ -1,1 +1,5 @@
-# Codecademy_Data-Science-
+Data Visualization using:
+Python
+Pandas
+Matplotlib
+Seaborn
